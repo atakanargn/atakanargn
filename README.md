@@ -1,6 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on [THEADX](https://www.theadx.com/)
+# 💫 Welcome to my profile!
 
+
+### Firstly a Full Stack Web Developer, with Embedded Systems Software Development as a hobby
+
+#
+* 🌍 Based in Bursa, Turkey
+* ✉️ You can reach me at argin.atakan@gmail.com
+* 🚀 Currently working at [THEADX](https://www.theadx.com/en/)
+* 🧠 Learning Go (Golang)
+* 🤝 Open to collaborating on new project ideas, especially in the field of soilless agriculture
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atakanargn) 
