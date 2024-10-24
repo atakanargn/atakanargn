@@ -7,7 +7,7 @@
 * 🌍 Based in Bursa, Turkey
 * ✉️ You can reach me at argin.atakan@gmail.com
 * 🚀 Currently working at [THEADX](https://www.theadx.com/en/)
-* 🧠 Learning Go (Golang)
+* 🧠 Learning Laravel
 * 🤝 Open to collaborating on new project ideas, especially in the field of soilless agriculture
 
 ## 🌐 Socials:
