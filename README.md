@@ -1,7 +1,7 @@
 # 💫 Welcome to my profile!
 
 
-### Firstly a Full Stack Web Developer, with Embedded Systems Software Development as a hobby
+### Firstly Backend Developer, interested IoT systems as a hobby
 
 #
 * 🌍 Based in Bursa, Turkey
